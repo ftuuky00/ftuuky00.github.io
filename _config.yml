@@ -20,7 +20,7 @@ plugins:
   - jekyll-feed
 
 titles_from_headings:
-  enabled:     true
+  enabled:     false
   strip_title: true
   collections: true
 
