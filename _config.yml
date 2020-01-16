@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: counting bees with a bot
+title: Ftuuky pages
 description: ❤️✖️🤖 
 github_username: ftuuky00
 
@@ -20,7 +20,7 @@ plugins:
   - jekyll-feed
 
 titles_from_headings:
-  enabled:     false
+  enabled:     true
   strip_title: true
   collections: true
 
